@@ -1,6 +1,6 @@
 import itertools
 
-input_data = raw_input("Enter your text: ")
+input_data = input("Enter your text: ")
 
 len_of_input = len(input_data)
 
